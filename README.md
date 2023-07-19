@@ -19,4 +19,4 @@ of what the PCB will look like. Let me know if there is something you want chang
   different lengths, the longer one is positive and the shorter one is negative. I suggest this capacitor be valued around 10 - 100 uF, whatever you have.
 - Lastly, on top of each chip, there is a place for a capacitor. Please use ceramic capacitor that is NOT polarized and has a value of 0.1 uF. These are also filter capacitors. 
 
-![alt text](https://github.com/strah19/LEDCube/blob/master/pcb_image.png?raw=true)
+![alt text](https://github.com/strah19/LEDCube/blob/master/3d_pcb.png?raw=true)
