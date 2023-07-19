@@ -9,4 +9,4 @@ them before with good results. On whatever website you choose, you'll just have 
 to go. Nothing on our part has to be done. Below is a screenshot of what the PCB will look like. Let me know if there is something you want 
 changed and I will before you buy it. Thanks!
 
-![alt text](https://github.com/[strah19]/[LEDCube]/blob/[master]/pcb_image.png?raw=true)
+![alt text](https://github.com/strah19/LEDCube/blob/master/pcb_image.png?raw=true)
