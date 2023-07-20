@@ -17,6 +17,8 @@ of what the PCB will look like. Let me know if there is something you want chang
 - Also to the left of the arduino there is a place for a capacitor. The capacitor is there to protected it from noise. IMPORTANT: if you are using a polarized capacitor,
   meaning one side is supposed to be positive and the other negative, the right hole is the negative and the left hole is the positive. Usually, the capacitor legs will be
   different lengths, the longer one is positive and the shorter one is negative. I suggest this capacitor be valued around 10 - 100 uF, whatever you have.
+- The pinout of the transistors is VERY important. I'm not sure what transistors you have but this is the following pin out they need to have (check the datasheet): 1: emitter, 2:base,
+  and 3: collector. This can also be seen in the schematic (pdf).
 - Lastly, on top of each chip, there is a place for a capacitor. Please use ceramic capacitor that is NOT polarized and has a value of 0.1 uF. These are also filter capacitors. 
 
 ![alt text](https://github.com/strah19/LEDCube/blob/master/3d_pcb.png?raw=true)
